@@ -5,7 +5,7 @@
 **Authors:** Yash Chainani, Jacob Diaz, Margaret Guilarte-Silva, Vincent Blay, Quan Zhang, William Sprague, Keith E. J. Tyo, Linda J. Broadbelt, Aindrila Mukhopadhyay, Jay D. Keasling, Hector Garcia Martin & Tyler W. H. Backman 
 
 **BioPKS Pipeline** is a combined retrobiosynthesis pipeline intended to expand the design space of feasible
-biosynthetic pathways between simple, inexpensively available precursors and high-value small molecules. 
+biosynthetic  pathways between simple, inexpensively available precursors and high-value small molecules. 
 BioPKS Pipeline has been developed by integrating two software packages: **RetroTide**, which specializes in modular
 polyketide synthase (PKS) retrobiosynthesis, and **DORAnet**, tailored for singular enzymatic synthesis. 
 With BioPKS Pipeline, users will first specify the target molecule for which they wish to discover biosynthetic pathways.
