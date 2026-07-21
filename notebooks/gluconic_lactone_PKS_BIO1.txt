@@ -4,8 +4,8 @@ PKS design:
     ["AT{'substrate': 'Hydroxymalonyl-CoA'}", 'loading: True']
     ["AT{'substrate': 'Hydroxymalonyl-CoA'}", "KR{'type': 'B1'}", 'loading: False']
     ["AT{'substrate': 'Hydroxymalonyl-CoA'}", "KR{'type': 'B1'}", 'loading: False']
-PKS product: O=C(O)[C@H](O)[C@H](O)[C@H](O)[C@H](O)CO
-PKS product similarity: 0.9230769230769231
+PKS product: O=C1O[C@H]([C@H](O)CO)[C@@H](O)[C@H]1O
+PKS product similarity: 1.0
 Bio product: O=C1OC(CO)C(O)C(O)C1O
 Bio product similarity: 1.0
 Bio pathways:

@@ -1,0 +1,54 @@
+
+PKS design number: 0
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'B1'}", 'DH{}', 'loading: False']
+PKS product: CC=C(OC)C(=O)O
+PKS product similarity: 0.13793103448275862
+Bio product: Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O
+Bio product similarity: 0.2631578947368421
+
+PKS design number: 1
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'B1'}", 'DH{}', 'ER{}', 'loading: False']
+PKS product: CC[C@H](OC)C(=O)O
+PKS product similarity: 0.13793103448275862
+Bio product: Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O
+Bio product similarity: 0.2631578947368421
+
+PKS design number: 2
+PKS design:
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Malonyl-CoA'}", "KR{'type': 'B'}", 'DH{}', 'loading: False']
+PKS product: COCC=CC(=O)O
+PKS product similarity: 0.13793103448275862
+Bio product: Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O
+Bio product similarity: 0.2631578947368421
+
+PKS design number: 3
+PKS design:
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Malonyl-CoA'}", "KR{'type': 'B'}", 'DH{}', 'ER{}', 'loading: False']
+PKS product: COCCCC(=O)O
+PKS product similarity: 0.13793103448275862
+Bio product: Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O
+Bio product similarity: 0.2631578947368421
+
+PKS design number: 4
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", 'loading: False']
+PKS product: CO[C@@H](C(C)=O)C(=O)O
+PKS product similarity: 0.13333333333333333
+Bio product: Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O
+Bio product similarity: 0.2631578947368421
+
+PKS design number: 5
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'C1'}", 'loading: False']
+PKS product: CO[C@H](C(C)=O)C(=O)O
+PKS product similarity: 0.13333333333333333
+Bio product: Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O
+Bio product similarity: 0.2631578947368421

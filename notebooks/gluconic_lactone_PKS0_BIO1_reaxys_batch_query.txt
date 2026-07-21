@@ -1,0 +1,1 @@
+SMILES='O=C(O)C(O)C(O)C(O)C(O)CO>>O=C1OC(CO)C(O)C(O)C1O'

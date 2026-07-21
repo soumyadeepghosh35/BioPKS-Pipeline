@@ -1,0 +1,54 @@
+
+PKS design number: 0
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'B1'}", 'DH{}', 'ER{}', 'loading: False']
+PKS product: CC[C@H](OC)C(=O)O
+PKS product similarity: 0.18518518518518517
+Bio product: CCOC(C)C(=O)O
+Bio product similarity: 0.23076923076923078
+
+PKS design number: 1
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", 'loading: False']
+PKS product: CO[C@@H](C(C)=O)C(=O)O
+PKS product similarity: 0.17857142857142858
+Bio product: CCOC(C=O)C(=O)O
+Bio product similarity: 0.2222222222222222
+
+PKS design number: 2
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'C1'}", 'loading: False']
+PKS product: CO[C@H](C(C)=O)C(=O)O
+PKS product similarity: 0.17857142857142858
+Bio product: CCOC(C=O)C(=O)O
+Bio product similarity: 0.2222222222222222
+
+PKS design number: 3
+PKS design:
+    ["AT{'substrate': 'Malonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'B1'}", 'loading: False']
+PKS product: CO[C@@H](C(=O)O)[C@@H](C)O
+PKS product similarity: 0.17857142857142858
+Bio product: CCOC(CO)C(=O)O
+Bio product similarity: 0.2222222222222222
+
+PKS design number: 4
+PKS design:
+    ["AT{'substrate': 'Methylmalonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'B1'}", 'DH{}', 'ER{}', 'loading: False']
+PKS product: CCC[C@H](OC)C(=O)O
+PKS product similarity: 0.17857142857142858
+Bio product: CCCOC(C)C(=O)O
+Bio product similarity: 0.2222222222222222
+
+PKS design number: 5
+PKS design:
+    ["AT{'substrate': 'Hydroxymalonyl-CoA'}", 'loading: True']
+    ["AT{'substrate': 'Methoxymalonyl-CoA'}", "KR{'type': 'B1'}", 'DH{}', 'ER{}', 'loading: False']
+PKS product: CO[C@@H](CCO)C(=O)O
+PKS product similarity: 0.17857142857142858
+Bio product: CC(OCCO)C(=O)O
+Bio product similarity: 0.2222222222222222
